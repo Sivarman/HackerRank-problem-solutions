@@ -7,7 +7,7 @@ This repository contains beginner-friendly and well-structured code for differen
 - 📊 Data Structures  
 - ☕ Java Programming  
 - 📝 Practice Problem
-
+]
 ---
 
 ## 📂 Repository Structure
