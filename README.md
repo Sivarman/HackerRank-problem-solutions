@@ -2,7 +2,6 @@
 
 🚀 A collection of solutions to HackerRank problems, solved using **Python**.  
 This repository contains beginner-friendly and well-structured code for different domains such as:
-
 - 🧮 Algorithms  
 - 📊 Data Structures  
 - ☕ Java Programming  
