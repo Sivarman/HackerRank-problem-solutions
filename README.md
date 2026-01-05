@@ -4,7 +4,7 @@
 This repository contains beginner-friendly and well-structured code for different domains such as:
 - 🧮 Algorithms  
 - 📊 Data Structures  
-- ☕ Java Programming  
+- ☕ Java Programming 
 -
 ]
 ---
