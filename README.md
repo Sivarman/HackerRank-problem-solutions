@@ -10,7 +10,7 @@ This repository contains beginner-friendly and well-structured code for differen
 ---
 
 ## 📂 Repository Structure
-HackerRank-problem-solutions/
+HackerRank-problem-solutions
 │
 ├── Python/
 │ ├── algorithms/
