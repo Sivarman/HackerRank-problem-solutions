@@ -1,4 +1,4 @@
-# HackerRank Problem Solutions
+ # HackerRank Problem Solutions
 
 🚀 A collection of solutions to HackerRank problems, solved using **Python**.  
 This repository contains beginner-friendly and well-structured code for different domains such as:
