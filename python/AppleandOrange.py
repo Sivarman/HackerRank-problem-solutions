@@ -1,4 +1,4 @@
-# Problem: Apple and Orange
+ # Problem: Apple and Orange
 # Link: https://www.hackerrank.com/challenges/apple-and-orange/problem
 # Description:
 # Sam's house is located between points s and t on the x-axis.
